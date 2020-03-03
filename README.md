@@ -26,7 +26,7 @@ Rode a aplicação:
 
 ## Como usar
 
-###1. **GET** - Diretório Raíz:
+1. **GET** - Diretório Raíz:
 
 ```{{url}}/```
 
@@ -44,7 +44,7 @@ Resposta:
 
 
 
-###2. **POST** - Enviando as cotações:
+2. **POST** - Enviando as cotações:
 
 ```{{url}}/send_rates```
 
@@ -73,7 +73,7 @@ Exemplo utilizando o Postman:
 
 ![send_rates](https://user-images.githubusercontent.com/36646849/75824574-82371100-5d82-11ea-8c21-f7d98881ed3f.png)
 
-###3. **GET** - Retornando o melhor trade e o lucro resultante:
+3. **GET** - Retornando o melhor trade e o lucro resultante:
 
 ```{{url}}/trade```
 
